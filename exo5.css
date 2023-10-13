@@ -1,10 +1,9 @@
 #block {
-
+  display: inline-flex;
 }
 div{
   margin: 2px;
   font-size: 40px;
-  text-align: center;
 }
 #a {
   background-color: red;
@@ -40,4 +39,10 @@ div{
   background-color: lightblue;
   height: 100px;
   width: 20%;
+}
+
+@media only screen and (max-width: 600px) {
+  #c {
+    background-color: black;
+  }
 }

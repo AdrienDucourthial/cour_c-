@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{0477FB85-129F-427D-B2CA-92FAA5043720}|Default">
-  <MonoDevelop.Ide.ItemProperties.exos__CS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exos_CS/exo4.cs">
+    <Files>
+      <File FileName="../exo2.cs" Line="5" Column="26" />
+      <File FileName="exos_CS/exo3.cs" Line="22" Column="6" />
+      <File FileName="exos_CS/Program.cs" Line="6" Column="13" />
+      <File FileName="exos_CS/exo4.cs" Line="25" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exos_CS" expanded="True">
+            <Node name="exos_CS" expanded="True">
+              <Node name="exo4.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exos__CS PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
