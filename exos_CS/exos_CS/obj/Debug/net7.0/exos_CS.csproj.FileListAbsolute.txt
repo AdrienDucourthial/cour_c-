@@ -3,3 +3,13 @@
 /Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.AssemblyInfoInputs.cache
 /Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.AssemblyInfo.cs
 /Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.csproj.CoreCompileInputs.cache
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/bin/Debug/net7.0/exos_CS
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/bin/Debug/net7.0/exos_CS.deps.json
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/bin/Debug/net7.0/exos_CS.runtimeconfig.json
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/bin/Debug/net7.0/exos_CS.dll
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/bin/Debug/net7.0/exos_CS.pdb
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.dll
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/refint/exos_CS.dll
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.pdb
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.genruntimeconfig.cache
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/ref/exos_CS.dll

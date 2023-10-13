@@ -1,14 +1,14 @@
 using System;
 
-public class Program
+public class Exo2
 {
     public static void Main()
     {
-        Console.Write(ConvertToUpper("minuscule"));
+        Console.WriteLine(ConvertToUpper("minuscule"));
     }
 
     public static string ConvertToUpper(string text)
     {
-        return string.ToUpper();
+        return text.ToUpper();
     }
 }
