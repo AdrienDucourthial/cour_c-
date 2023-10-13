@@ -1,0 +1,5 @@
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.csproj.AssemblyReference.cache
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.AssemblyInfoInputs.cache
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.AssemblyInfo.cs
+/Users/adrien/Documents/cour_c#/exos_CS/exos_CS/obj/Debug/net7.0/exos_CS.csproj.CoreCompileInputs.cache
