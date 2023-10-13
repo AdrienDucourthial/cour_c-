@@ -1,0 +1,43 @@
+#block {
+
+}
+div{
+  margin: 2px;
+  font-size: 40px;
+  text-align: center;
+}
+#a {
+  background-color: red;
+  height: 100px;
+  width: 20%;
+}
+#b {
+  background-color: lightblue;
+  height: 100px;
+  width: 20%;
+}
+#c {
+  background-color: yellow;
+  height: 100px;
+  width: 20%;
+}
+#d {
+  background-color: lightblue;
+  height: 200px;
+  width: 40%;
+}
+#e {
+  background-color: lightblue;
+  height: 100px;
+  width: 20%;
+}
+#f {
+  background-color: green;
+  height: 100px;
+  width: 20%;
+}
+#g {
+  background-color: lightblue;
+  height: 100px;
+  width: 20%;
+}
